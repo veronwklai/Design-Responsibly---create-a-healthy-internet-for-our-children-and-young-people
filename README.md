@@ -11,7 +11,7 @@ What our future vision for the Design Responsibly is:
 - Making it open and accessible for contributors
 - Making it practical for organisation and people who are interested in developing product/service for LGBTQ youth
 
-The project is targeted to benefit to youth service providers who are developing online product and services. Individual who are interested in making inclusive design/tech, and service designers who are interested in exploring working open in their projects. 
+The project is targeted to benefit the youth service providers who are developing online product and services. Individual who are interested in making inclusive design/tech, and service designers who are interested in exploring working open in their projects. 
 
 We are running our first event at Mozilla Festival in this year. The event name is Youth, LGBTQ and You: Building allyship to make a safer, healthier internet for all #291. Come and say hello if you are around.
 
