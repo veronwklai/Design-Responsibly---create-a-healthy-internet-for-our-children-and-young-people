@@ -15,7 +15,7 @@ The project is targeted to benefit the youth service providers who are developin
 
 We are running our first event at Mozilla Festival in this year. The event name is Youth, LGBTQ and You: Building allyship to make a safer, healthier internet for all #291. Come and say hello if you are around.
 
-We have structured our plan of action creating a website to share contents and make the project visible to external users. The target launch date will be 1st December 2018  https://www.wedesignresponsibly.com/
+This details on the design principles are here https://www.wedesignresponsibly.com/
 
 We are currently looking for the contributor to give feedback on the Design Principles and exploring different ways of working open. We are a super tiny team of 2, if you have any idea and suggestion on how we can scale and develop our idea, please say Hello and leave us a comment below. 
 
